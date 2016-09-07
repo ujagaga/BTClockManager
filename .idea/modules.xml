@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Bt_clock_manager.iml" filepath="$PROJECT_DIR$/Bt_clock_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTClockManager.iml" filepath="$PROJECT_DIR$/BTClockManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
