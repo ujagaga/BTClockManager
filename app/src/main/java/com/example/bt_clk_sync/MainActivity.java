@@ -1,4 +1,4 @@
-package com.google.ujagaga.bt_clock_manager;
+package com.example.bt_clk_sync;
 
 import android.app.ProgressDialog;
 import android.bluetooth.BluetoothAdapter;
